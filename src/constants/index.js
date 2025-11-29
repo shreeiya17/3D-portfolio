@@ -251,24 +251,24 @@ const navLinks = [
   ];
   
   const socialImgs = [
-    {
-      name: "insta",
-      url: "https://www.instagram.com/",
-      imgPath: "/images/insta.png",
-    },
-    {
-      name: "fb",
-      url: "https://www.facebook.com/",
-      imgPath: "/images/fb.png",
-    },
-    {
-      name: "x",
-      url: "https://www.x.com/",
-      imgPath: "/images/x.png",
-    },
+    // {
+    //   name: "insta",
+    //   url: "https://www.instagram.com/",
+    //   imgPath: "/images/insta.png",
+    // },
+    // {
+    //   name: "fb",
+    //   url: "https://www.facebook.com/",
+    //   imgPath: "/images/fb.png",
+    // },
+    // {
+    //   name: "x",
+    //   url: "https://www.x.com/",
+    //   imgPath: "/images/x.png",
+    // },
     {
       name: "linkedin",
-      url: "https://www.linkedin.com/",
+      url: "https://www.linkedin.com/in/shreeiya-trivedi-b8a45225b/",
       imgPath: "/images/linkedin.png",
     },
   ];
