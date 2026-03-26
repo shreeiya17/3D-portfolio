@@ -2,7 +2,7 @@
 
 > A immersive 3D portfolio built with React and Three.js.
 
-🔗 **Live Demo**: [[your-live-url-here](https://3-d-portfolio-rho-khaki.vercel.app/)]
+🔗 **Live Demo**: [your-live-url-here](https://3-d-portfolio-rho-khaki.vercel.app/)
 
 ---
 
